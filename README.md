@@ -1,22 +1,29 @@
-1) Spawn d'objets (en plus des joueurs)
-   Tronc d'arbre (level 3)
+# 🎮 Mon Projet de Jeu  
 
-2) Des objets qui se déplacent ou rotate
-   Moulin
+Bienvenue dans mon projet de Golf !
 
-3) Un système d'interaction entre le joueur et son environnement qui s'affiche sur l'UI des autres joueurs.
-   Nombre de coup
+## 🌱 Spawn d'objets  
+En plus des joueurs, certains objets apparaissent dans l'environnement :  
+- 🌳 **Tronc d'arbre** (Level 3)  
 
-4) Un élément qui se sauvegarde entre deux lancement du jeu (En plus du nom des joueurs)
-   Nom des joueurs, skin et chapeau
+## ⚙️ Objets animés  
+Certains objets peuvent bouger ou tourner :  
+- 🌪️ **Moulin** (Level 2 et 3)  
 
-5) Une action de personnage via un input.
+## 🔄 Interaction joueur-environnement  
+Les interactions du joueur sont visibles par tous sur l'UI :  
+- 🪓 **Nombre de coups portés**  
 
-   Lobby :
+## 💾 Sauvegarde des données  
+Certains éléments sont conservés entre deux sessions de jeu :  
+- 🏷️ **Nom des joueurs**  
+- 🎭 **Skin et chapeau**  
 
-   ZSQD : se déplacer
-   SPACE : sauter
+## 🕹️ Contrôles  
+### 🏠 **Dans le Lobby**  
+- ⬆️⬅️⬇️➡️ **ZQSD** : Se déplacer  
+- 🏃 **Espace** : Sauter  
 
-   En jeu :
-   Left mouse button : charge shoot
-   R : Respawn
+### 🎯 **En jeu**  
+- 🖱️ **Clic gauche** : Charge shoot  
+- 🔄 **R** : Respawn  
